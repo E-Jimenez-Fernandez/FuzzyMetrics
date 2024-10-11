@@ -13,3 +13,5 @@ Imports:
     dplyr,
     earth,
     corrgram
+URL: https://github.com/E-Jimenez-Fernandez/FuzzyMetrics
+BugReports: https://github.com/E-Jimenez-Fernandez/FuzzyMetrics/issues
